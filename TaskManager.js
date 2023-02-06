@@ -1,4 +1,4 @@
-import Task from "../classes/Task.js";
+import Task from "./Task.js";
 
 export default class TaskManager{
     constructor(){

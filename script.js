@@ -1,5 +1,5 @@
-import Task from "./classes/Task.js";
-import TaskManager from "./classes/TaskManager.js";
+import Task from "./Task.js";
+import TaskManager from "./TaskManager.js";
 
 let manager= new TaskManager();
 
